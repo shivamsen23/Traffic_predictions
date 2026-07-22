@@ -2,13 +2,13 @@
 
 A Machine Learning–based Traffic Prediction System that predicts the expected vehicle count at traffic junctions using historical traffic data. The application is powered by a **Random Forest Regression** model and deployed as an interactive **Streamlit** web application for real-time predictions.
 
-## 🌐 Live Demo
+## Live Demo
 
 👉 https://trafficpredictions-bbbg4ws5bdqxutbyspqzh9.streamlit.app/
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Traffic congestion is one of the major challenges in modern cities. This project leverages machine learning to predict future traffic volume based on historical traffic patterns and time-related features.
 
@@ -16,7 +16,7 @@ The trained model is deployed through a Streamlit interface where users can ente
 
 ---
 
-## ✨ Features
+##  Features
 
 - Predicts vehicle count using historical traffic data
 - Built using **Random Forest Regression**
@@ -27,7 +27,7 @@ The trained model is deployed through a Streamlit interface where users can ente
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
@@ -39,7 +39,7 @@ The trained model is deployed through a Streamlit interface where users can ente
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Traffic_Predictions/
@@ -55,7 +55,7 @@ Traffic_Predictions/
 
 ---
 
-## ⚙️ Machine Learning Workflow
+##  Machine Learning Workflow
 
 ### 1. Data Collection & Preprocessing
 
@@ -102,7 +102,7 @@ Workflow:
 
 ---
 
-## 📈 Model Used
+##  Model Used
 
 **Random Forest Regression**
 
@@ -116,7 +116,7 @@ Workflow:
 
 ---
 
-## 🚀 Running the Project Locally
+##  Running the Project Locally
 
 ### Clone the repository
 
@@ -144,7 +144,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Input Parameters
+##  Input Parameters
 
 The application accepts traffic-related features such as:
 
@@ -156,7 +156,7 @@ The input is automatically preprocessed before prediction.
 
 ---
 
-## 📤 Output
+##  Output
 
 The model predicts:
 
@@ -171,7 +171,7 @@ which can assist in:
 
 ---
 
-## 📷 Application Preview
+##  Application Preview
 
 You can view the deployed application here:
 
@@ -181,7 +181,7 @@ https://trafficpredictions-bbbg4ws5bdqxutbyspqzh9.streamlit.app/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Live traffic API integration
 - Deep Learning models (LSTM/GRU)
@@ -192,7 +192,7 @@ https://trafficpredictions-bbbg4ws5bdqxutbyspqzh9.streamlit.app/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Shivam Sen**
 
@@ -200,4 +200,4 @@ GitHub: https://github.com/shivamsen23
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
+## If you found this project useful, consider giving it a star!
